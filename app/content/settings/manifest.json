@@ -1,8 +1,8 @@
 {
-  "name": "Bluise",
-  "shortName": "Bluise",
-  "description": "A Nuxt.js & Netlify CMS boilerplate.",
-  "themeColor": "#0b3765",
+  "name": "Bruce Conradie",
+  "shortName": "Bruce Conradie",
+  "description": "Bruce Conradie editing services.",
+  "themeColor": "#ed2f2f",
   "backgroundColor": "#ffffff",
   "lang": "en"
 }
