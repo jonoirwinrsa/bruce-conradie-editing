@@ -1,10 +1,10 @@
 {
   "title": "Home",
-  "titleTemplate": "| Bluise",
-  "welcomeText": "# Yo, I'm Bluise - A Nuxt.js & Netlify CMS boilerplate.\n\nAuthentic cred hoodie hashtag selfies. Raclette banjo cardigan cred. Kitsch XOXO lomo polaroid. Knausgaard put a bird on it four dollar toast leggings typewriter asymmetrical.",
-  "logo": "/images/uploads/logo.svg",
-  "icon": "/images/uploads/logo.png",
-  "loadingColor": "#0b3765",
-  "seoDescription": "A quickstart for Nuxt & Netlify CMS",
+  "titleTemplate": "Bruce Conradie",
+  "welcomeText": "# Hi, I'm Bruce Conradie.\n\nI offer editing services.",
+  "logo": "/images/uploads/white.png",
+  "icon": "/images/uploads/white.png",
+  "loadingColor": "#ed2f2f",
+  "seoDescription": "Bruce Conradie editing services",
   "seoMetaImage": ""
 }
